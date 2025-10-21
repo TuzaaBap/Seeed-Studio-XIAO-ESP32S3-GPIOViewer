@@ -11,7 +11,7 @@ PORT = 8081
 VREF = 3.3
 SAMPLE_MS = 500
 
-# Confirmed D→GPIO map (your jumper test)
+# Confirmed D→GPIO map (jumper test)
 D2GPIO = {
     0: 1, 1: 2, 2: 3, 3: 4, 4: 5, 5: 6,
     6: 43,  # D6 UART
