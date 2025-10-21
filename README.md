@@ -3,6 +3,10 @@
 A MicroPython-based real-time GPIO monitor for the Seeed Studio XIAO ESP32S3 Sense.  
 Displays live digital pin states (HIGH/LOW/TOUCH) through a local web interface using Thonny or any MicroPython environment.
 
+Web Dashboard for GPIO Monitoring
+<img width="521" height="580" alt="image" src="https://github.com/user-attachments/assets/ab3c4cbf-1f7d-4cfb-9fac-4953bc836b36" />
+
+
 ---
 
 ## 🌐 Features
