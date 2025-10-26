@@ -36,7 +36,7 @@ The firmware runs an async web server that:
 
 ## 🚀 Setup
 1. Flash MicroPython firmware to the board  
-2. Open Thonny → copy project files (`boot.py`, `main.py`, `/web/` folder)  
+2. Open Thonny → copy project files (`boot.py`, `main.py`)  
 3. Edit `SSID` and `PASSWORD` in `boot.py`  
 4. Run or reboot the board  
 5. Visit the displayed IP in your browser (e.g., `http://192.168.1.4:8081/`)
