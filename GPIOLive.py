@@ -558,7 +558,7 @@ async def _serve(reader, writer):
 # ---------- Main Run ----------
 async def run():
     await asyncio.start_server(_serve, '0.0.0.0', HTTP_PORT)
-    print('[GPIOLive] v1.0.3 listening on port', HTTP_PORT)
+    print('[GPIOLive] v1.0.2 listening on port', HTTP_PORT)
     asyncio.create_task(_breathe())
     try:
         while True:
