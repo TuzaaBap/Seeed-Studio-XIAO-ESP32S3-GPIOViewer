@@ -18,7 +18,8 @@ This release introduces a **new, lightweight web dashboard** that lets you view 
 ## 📸 Dashboard Preview For ESPInfo
 
 
-<img width="1436" height="809" alt="image" src="https://github.com/user-attachments/assets/1a116a7c-621c-456f-92e4-dad396bb12d8" />
+<img width="2872" height="1618" alt="image" src="https://github.com/user-attachments/assets/2da62146-f776-4053-a1cc-a14b4d5922c6" />
+
 
 
 ---
