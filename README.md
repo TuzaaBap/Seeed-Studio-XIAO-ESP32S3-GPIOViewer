@@ -73,7 +73,7 @@ The firmware runs an async web server that:
    SSID = "Your_WiFi_SSID"
    PASSWORD = "Your_WiFi_Password" 
 4. Run or reboot the board  
-5. Visit the displayed IP in your browser (e.g., `http://192.168.1.4:8081/`)
+5. Visit the displayed IP in your browser (e.g., `http://192.168.1.4:8080/`)
 
 
 ---
