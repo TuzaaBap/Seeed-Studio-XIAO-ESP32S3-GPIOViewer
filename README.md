@@ -53,7 +53,7 @@ All critical system metrics are now displayed on one unified page:
 The firmware runs an async web server that:
 - Reads all GPIO pins periodically
 - Updates pin states in JSON
-- Serves a responsive HTML dashboard at `http://<board-ip>:8081/`
+- Serves a responsive HTML dashboard at `http://<board-ip>:8080/`
 
 ---
 
