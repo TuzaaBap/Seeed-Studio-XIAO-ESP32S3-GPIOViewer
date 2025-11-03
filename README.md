@@ -5,7 +5,7 @@ Displays live digital pin states (HIGH/LOW/TOUCH) through a local web interface 
 
 
 ## 🌐 Overview
-This release introduces a **new, lightweight web dashboard** that lets you view GPIO states, system stats, and board diagnostics in real-time — right from your browser.
+This release introduces a **new, lightweight web dashboard** that lets you view GPIO states, system stats, and board diagnostics in real-time — right from your browser
 
 > 🧠 Ideal for debugging complex IoT systems such as relay drivers, sensors, or automation boards without requiring a serial console.
 
